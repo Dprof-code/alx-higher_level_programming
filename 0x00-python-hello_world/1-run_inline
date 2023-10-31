@@ -1,0 +1,2 @@
+#!/bin/bash
+echo '#!/usr/bin/python3' > run_inline.py && echo $PYCODE >> run_inline.py && chmod +x run_inline.py && ./run_inline.py
