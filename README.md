@@ -1,6 +1,6 @@
 # Alx High Level Programming
 
-![Python-meme](images/py1.py)
+![Python-meme](images/pymeme.jpg)
 
 This repository contains my solutions to various programming problems related to high level programming and algorithms in the ALX Software Engineering program. As I progress in my learnings, I would be implementing solutions in the the Python programming language focus on understanding the fundamentals of programming and computer architecture.
 
