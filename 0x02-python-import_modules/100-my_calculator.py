@@ -22,5 +22,4 @@ if __name__ == "__main__":
         print("{} {} {} = {}".format(a, operator, b, calc.div(a, b)))
     else:
         print("Unknown operator. Available operators: +, -, * and /")
-        exit(1) 
-
+        exit(1)
